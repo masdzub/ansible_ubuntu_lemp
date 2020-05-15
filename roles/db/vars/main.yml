@@ -1,0 +1,6 @@
+---
+# vars file for dbdb_name: db-example
+db_name: db-name
+db_user: db-user
+db_pass: '*6063C78456BB048BAF36BE1104D12D547834DFEA'
+# password can generate from https://www.browserling.com/tools/mysql-password

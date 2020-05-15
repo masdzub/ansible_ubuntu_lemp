@@ -1,0 +1,2 @@
+[lemp]
+server01 ansible_host=209.97.165.216
